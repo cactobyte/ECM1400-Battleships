@@ -6,7 +6,7 @@ A singleplayer python game where players place their own ships on a board and at
 If all requirements are installed, run: <br/>
 ```python main.py```<br/>
 It is **recommended** to start on [http://127.0.0.1:5000/difficulty](http://127.0.0.1:5000
-) which is the difficulty screen
+) which is the difficulty selection page
 
 ### Features:
 - Difficulty Selection
